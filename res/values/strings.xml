@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_0071</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start">开始菜单</string>
+	<string name="over">结束菜单</string>
+    <string name="contexTitle">上下文菜单</string>
+    
+</resources>
